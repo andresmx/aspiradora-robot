@@ -1,0 +1,5 @@
+{
+	"name": "Siliconhagen proof of concept",
+	"author": "Silicon Hagen",
+	"optionalPermissions": ["user-interaction"]
+}
