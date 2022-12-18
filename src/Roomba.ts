@@ -23,7 +23,7 @@ export default class Roomba extends SDKObject {
 
 	private createRoomba() {
 		this.roomba = MRE.Actor.CreateFromLibrary(super.getContext(), {
-			resourceId: 'artifact:1766806184817328618',
+			resourceId: 'artifact:1889366435247947787',
 			actor: {
 				transform: {
 					local: {
